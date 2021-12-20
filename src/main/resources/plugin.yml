@@ -1,0 +1,10 @@
+name: MMOItemsPerWorldDrops
+version: 1.2.3
+main: net.Indyuce.mmoitems.addon.WorldDrops
+author: Indyuce
+depend: [ MMOItems ]
+api-version: 1.13
+commands:
+  mmoitemsworlddrops:
+    description: Reloads drop data.
+permissions: { }
